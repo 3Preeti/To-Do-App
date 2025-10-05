@@ -3,6 +3,8 @@
 
 A simple, responsive ToDo list application built using vanilla JavaScript, HTML5, and CSS3, styled with Bootstrap 5. This application allows users to add, delete, edit, and mark tasks as complete, with all data persistently stored in the browser's Local Storage.
 
+---
+
 ## Features
 
 - Add Tasks: Easily add new tasks using the input field.
@@ -13,13 +15,17 @@ A simple, responsive ToDo list application built using vanilla JavaScript, HTML5
 - Responsive Design: Styled using Bootstrap 5 classes for a clean and mobile-friendly layout.
 - Visual Icons: Uses Bootstrap Icons for a clear and intuitive user experience (Edit, Delete, and Complete buttons).
 
-  ## Technologies Used
+---
 
-  - HTML5: Structure of the application (index.html).
-  - CSS3: Custom styling (style.css).
-  - JavaScript (Vanilla): Core application logic, DOM manipulation, and Local Storage management (script.js).
-  - Bootstrap 5: For responsive layout, cards, forms, and general component styling.
-  - Bootstrap Icons: For action button icons.
+## Technologies Used
+
+- HTML5: Structure of the application (index.html).
+- CSS3: Custom styling (style.css).
+- JavaScript (Vanilla): Core application logic, DOM manipulation, and Local Storage management (script.js).
+- Bootstrap 5: For responsive layout, cards, forms, and general component styling.
+- Bootstrap Icons: For action button icons.
+  
+---
 
 ## How to Run Locally
 This application is entirely client-side and does not require a backend server.
@@ -31,3 +37,7 @@ cd my-todo-app
 ```
 
 2. Open index.html: Simply double-click the index.html file in your file explorer. It will open automatically in your default web browser.
+
+---
+
+Thank you for checking out this project! 😊
