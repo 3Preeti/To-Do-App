@@ -1,5 +1,5 @@
-# TO-DO APP
-## My TO-DO App
+
+# My TO-DO App
 
 A simple, responsive ToDo list application built using vanilla JavaScript, HTML5, and CSS3, styled with Bootstrap 5. This application allows users to add, delete, edit, and mark tasks as complete, with all data persistently stored in the browser's Local Storage.
 
